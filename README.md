@@ -1,4 +1,5 @@
-# Basic PHP With mySQL
+# OOP PHP With mySQL
+
  The system have 5 screen :
 S1:  Home page
 S2: Register
